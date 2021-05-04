@@ -41,7 +41,7 @@ Create a config.json as follows:
 }
 ```
 
-_Note: most like your bot name will be the same as your channel name, unless you have a bot account._
+_Note: most likely your bot name will be the same as your channel name, unless you have a bot account._
 
 #### Go forth and do bot things
 

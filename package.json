@@ -1,0 +1,24 @@
+{
+  "name": "twitch-chat-bot-example",
+  "version": "1.0.0",
+  "description": "A bot to track Manaphy Eggs hatched by Oliver, RJ, and Hanagar for the Manaphy Marathon.",
+  "main": "app.js",
+  "dependencies": {
+    "pg": "^8.6.0",
+    "tmi.js": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeEllis/twitch-chat-bot-example.git"
+  },
+  "author": "Luke Ellis <lukeellisx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukeEllis/twitch-chat-bot-example/issues"
+  },
+  "homepage": "https://github.com/LukeEllis/twitch-chat-bot-example#readme"
+}
